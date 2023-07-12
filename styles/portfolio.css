@@ -39,24 +39,27 @@ padding-left: 25%;
     padding-top: 2%;
 }
 
-
-
-
-
-.center h1,p{
-    text-align: center;
-}
-
-.center-text{
+.hire{
+    display: flex;
+    padding-left: 20%;
+    padding-top: 5%;
+    background-color: #F5D8DE;
+    margin-top: 8%;
     
 }
 
 
-.content h1,p{
+
+.center {
     text-align: center;
 }
 
-.conten
+
+
+
+
+
+
 
 
 
